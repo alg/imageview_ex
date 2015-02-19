@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F18A09F-C67A-4E46-9267-5D4222A9A8AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>imageview_ex</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D3B7EDF4B7CE0C41C14FB29DC74B673B3DC9AA3A</key>
+		<string>github.com:alg/imageview_ex.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>mobile/ios/imageview_ex.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D3B7EDF4B7CE0C41C14FB29DC74B673B3DC9AA3A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:alg/imageview_ex.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3B7EDF4B7CE0C41C14FB29DC74B673B3DC9AA3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3B7EDF4B7CE0C41C14FB29DC74B673B3DC9AA3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>imageview_ex</string>
+		</dict>
+	</array>
+</dict>
+</plist>
